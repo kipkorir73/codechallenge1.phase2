@@ -6,6 +6,8 @@ The Bank Transactions Web App is a React application that allows users to view a
 ## Development server
 Run  json-server --watch db.json serve for a dev server. Navigate to http://localhost:8001/transactions. The app will automatically reload if you change any of the source files.
 ## SCREENSHOTS 
+ <img src="./table.png" >
+  <img src="./tables.png" >
 
 
 
